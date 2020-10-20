@@ -1,0 +1,22 @@
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+}
+
+.App-header {
+  text-align: center;
+  font-size: 28px;
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+#years-dropdown {
+  width: 100px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+#container {
+  padding-bottom: 50px;
+}
